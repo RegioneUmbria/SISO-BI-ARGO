@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_-LAUwFZ-EeyFDbxeh9vArQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_-LAUwVZ-EeyFDbxeh9vArQ" comment="" name="ARGOBI_HOST" prompt="ARGOBI_HOST?" promptNeeded="true" type="id_String" value="172.29.0.255"/>
+  <contextParameter xmi:id="_-LAUwlZ-EeyFDbxeh9vArQ" comment="" name="ARGOBI_PORT" prompt="ARGOBI_PORT?" promptNeeded="true" type="id_String" value="1521"/>
+  <contextParameter xmi:id="_-LAUw1Z-EeyFDbxeh9vArQ" comment="" name="ARGOBI_SID" prompt="ARGOBI_SID?" promptNeeded="true" type="id_String" value="DBCAT"/>
+  <contextParameter xmi:id="_-LAUxFZ-EeyFDbxeh9vArQ" comment="" name="ARGOBI_USER" prompt="ARGOBI_USER?" promptNeeded="true" type="id_String" value="ARGOBI"/>
+  <contextParameter xmi:id="_-LAUxVZ-EeyFDbxeh9vArQ" comment="" name="ARGOBI_PWD" prompt="ARGOBI_PWD?" promptNeeded="true" type="id_Password" value="dEaOkP1+3ZI="/>
+</talendfile:ContextType>

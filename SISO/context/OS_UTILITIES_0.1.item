@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_-Ls4UFZ-EeyFDbxeh9vArQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_-Ls4UVZ-EeyFDbxeh9vArQ" comment="" name="CONNECTION_FILE_PATH" prompt="CONNECTION_FILE_PATH?" promptNeeded="true" type="id_String" value="&quot;C:/Talend/SISO/argobi_test.properties&quot;"/>
+  <contextParameter xmi:id="_-Ls4UlZ-EeyFDbxeh9vArQ" comment="" name="JOB_ID" prompt="JOB_ID?" promptNeeded="false" type="id_Long" value=""/>
+  <contextParameter xmi:id="_-Ls4U1Z-EeyFDbxeh9vArQ" comment="" name="LAST_EXECUTION" prompt="LAST_EXECUTION?" promptNeeded="true" type="id_String" value=""/>
+  <contextParameter xmi:id="_-Ls4VFZ-EeyFDbxeh9vArQ" comment="" name="PROCESS_NAME" prompt="PROCESS_NAME?" promptNeeded="false" type="id_String" value="&quot;ModelloJob&quot;"/>
+  <contextParameter xmi:id="_-Ls4VVZ-EeyFDbxeh9vArQ" comment="" name="STATUS_CODE" prompt="STATUS_CODE?" promptNeeded="false" type="id_String" value="&quot;0&quot;"/>
+  <contextParameter xmi:id="_-Ls4VlZ-EeyFDbxeh9vArQ" comment="" name="START_TIME" prompt="START_TIME?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_-Ls4V1Z-EeyFDbxeh9vArQ" comment="" name="BACKUP_FILES_PATH" prompt="BACKUP_FILES_PATH?" promptNeeded="true" type="id_String" value="&quot;../backup_files/&quot;"/>
+  <contextParameter xmi:id="_-Ls4WFZ-EeyFDbxeh9vArQ" comment="" name="JOB_NAME" prompt="JOB_NAME?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_-Ls4WVZ-EeyFDbxeh9vArQ" comment="" name="PROG" prompt="PROG?" promptNeeded="false" type="id_Integer" value="0"/>
+  <contextParameter xmi:id="_-Ls4WlZ-EeyFDbxeh9vArQ" comment="" name="PROCEDURE_NAME" prompt="PROCEDURE_NAME?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_-Ls4W1Z-EeyFDbxeh9vArQ" comment="" name="TIME_SIGNATURE" prompt="TIME_SIGNATURE?" promptNeeded="false" type="id_String" value="null"/>
+  <contextParameter xmi:id="_-Ls4XFZ-EeyFDbxeh9vArQ" comment="" name="ELABORAZIONE_PRINCIPALE" prompt="ELABORAZIONE_PRINCIPALE?" promptNeeded="false" type="id_Boolean" value=""/>
+  <contextParameter xmi:id="_-Ls4XVZ-EeyFDbxeh9vArQ" comment="" name="FILE_DIR" prompt="FILE_DIR?" promptNeeded="true" type="id_String" value="C:\Talend\SISO\MARCHE"/>
+  <contextParameter xmi:id="_-Ls4XlZ-EeyFDbxeh9vArQ" comment="" name="CS" prompt="CS?" promptNeeded="true" type="id_String" value="CS_DEV2"/>
+  <contextParameter xmi:id="_-Ls4X1Z-EeyFDbxeh9vArQ" comment="" name="CONNECTION_FILE_PATH_FLUSSI" prompt="CONNECTION_FILE_PATH_FLUSSI?" promptNeeded="true" type="id_String" value="&quot;C:/Talend/SISO/&quot;"/>
+  <contextParameter xmi:id="_-Ls4YFZ-EeyFDbxeh9vArQ" comment="" name="MAT_VIEW" prompt="MAT_VIEW?" promptNeeded="false" type="id_String" value="&quot;_MV&quot;"/>
+  <contextParameter xmi:id="_-Ls4YVZ-EeyFDbxeh9vArQ" comment="" name="DATA_ELAB" prompt="DATA_ELAB?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_-Ls4YlZ-EeyFDbxeh9vArQ" comment="" name="DATA_GIORNO" prompt="DATA_GIORNO?" promptNeeded="false" type="id_Date" value=""/>
+</talendfile:ContextType>

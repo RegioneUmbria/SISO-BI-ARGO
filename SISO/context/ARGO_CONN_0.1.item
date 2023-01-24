@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_-LI3oFZ-EeyFDbxeh9vArQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_-LI3oVZ-EeyFDbxeh9vArQ" comment="" name="ARGO_CONN_ServiceName" prompt="ARGO_CONN_ServiceName?" promptNeeded="false" type="id_String" value="DBCAT"/>
+  <contextParameter xmi:id="_-LI3olZ-EeyFDbxeh9vArQ" comment="" name="ARGO_CONN_Port" prompt="ARGO_CONN_Port?" promptNeeded="false" type="id_String" value="1521"/>
+  <contextParameter xmi:id="_-LI3o1Z-EeyFDbxeh9vArQ" comment="" name="ARGO_CONN_Schema" prompt="ARGO_CONN_Schema?" promptNeeded="false" type="id_String" value="ARGOBI"/>
+  <contextParameter xmi:id="_-LI3pFZ-EeyFDbxeh9vArQ" comment="" name="ARGO_CONN_Password" prompt="ARGO_CONN_Password?" promptNeeded="false" type="id_Password" value="dEaOkP1+3ZI="/>
+  <contextParameter xmi:id="_-LI3pVZ-EeyFDbxeh9vArQ" comment="" name="ARGO_CONN_Server" prompt="ARGO_CONN_Server?" promptNeeded="false" type="id_String" value="172.29.0.255"/>
+  <contextParameter xmi:id="_-LI3plZ-EeyFDbxeh9vArQ" comment="" name="ARGO_CONN_Login" prompt="ARGO_CONN_Login?" promptNeeded="false" type="id_String" value="ARGOBI"/>
+  <contextParameter xmi:id="_-LI3p1Z-EeyFDbxeh9vArQ" comment="" name="ARGO_CONN_AdditionalParams" prompt="ARGO_CONN_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_JG9pkGNEEeyAEb_jRv8dgg" comment="" name="ARGO_CONN_HOST" prompt="ARGO_CONN_HOST?" promptNeeded="false" type="id_String" value="172.29.0.255"/>
+  <contextParameter xmi:id="_JG9pkWNEEeyAEb_jRv8dgg" comment="" name="ARGO_CONN_USER" prompt="ARGO_CONN_USER?" promptNeeded="false" type="id_String" value="ARGOBI"/>
+  <contextParameter xmi:id="_JG9pkmNEEeyAEb_jRv8dgg" comment="" name="ARGO_CONN_SID" prompt="ARGO_CONN_SID?" promptNeeded="false" type="id_String" value="DBCAT"/>
+  <contextParameter xmi:id="_JG-QoGNEEeyAEb_jRv8dgg" comment="" name="ARGO_CONN_PORT" prompt="ARGO_CONN_PORT?" promptNeeded="false" type="id_String" value="1521"/>
+  <contextParameter xmi:id="_JG-QoWNEEeyAEb_jRv8dgg" comment="" name="ARGO_CONN_PWD" prompt="ARGO_CONN_PWD?" promptNeeded="false" type="id_Password" value="ARGOBI"/>
+</talendfile:ContextType>

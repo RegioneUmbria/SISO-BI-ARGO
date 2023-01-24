@@ -1,0 +1,52 @@
+package routines;
+
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.GregorianCalendar;
+/*
+ * user specification: the function's comment should contain keys as follows: 1. write about the function's comment.but
+ * it must be before the "{talendTypes}" key.
+ * 
+ * 2. {talendTypes} 's value must be talend Type, it is required . its value should be one of: String, char | Character,
+ * long | Long, int | Integer, boolean | Boolean, byte | Byte, Date, double | Double, float | Float, Object, short |
+ * Short
+ * 
+ * 3. {Category} define a category for the Function. it is required. its value is user-defined .
+ * 
+ * 4. {param} 's format is: {param} <type>[(<default value or closed list values>)] <name>[ : <comment>]
+ * 
+ * <type> 's value should be one of: string, int, list, double, object, boolean, long, char, date. <name>'s value is the
+ * Function's parameter name. the {param} is optional. so if you the Function without the parameters. the {param} don't
+ * added. you can have many parameters for the Function.
+ * 
+ * 5. {example} gives a example for the Function. it is optional.
+ */
+public class timeUtil {
+
+    /**
+     * fromUnixToDate: convert to Date a unixtimestamp
+     * 
+     * 
+     * {talendTypes} Date
+     * 
+     * {Category} User Defined
+     * 
+     * {param} unixtimestamp(mytimestamp) unix_time : the unixtimestamp to convert
+     * 
+     * {example} fromUnixToDate(1356029272) # Thu, 20 Dec 2012 18:47:52
+     */
+    public static Date fromUnixToDate(long unix_time) {
+    	Date date = new Date ();
+    	date.setTime((long)unix_time*1000);
+    	return date;
+    }
+    
+    public static String currentDateString() {
+    	  SimpleDateFormat sdfDate = new SimpleDateFormat("yyyy-MM-dd_HH-mm-ss");//dd/MM/yyyy
+    	    Date now = new Date();
+    	    String strDate = sdfDate.format(now);
+    	    return strDate;
+    }
+    
+}

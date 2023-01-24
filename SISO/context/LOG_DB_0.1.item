@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_-LigQFZ-EeyFDbxeh9vArQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_-LigQVZ-EeyFDbxeh9vArQ" comment="" name="LOG_HOST" prompt="LOG_HOST?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_-LigQlZ-EeyFDbxeh9vArQ" comment="" name="LOG_PORT" prompt="LOG_PORT?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_-LigQ1Z-EeyFDbxeh9vArQ" comment="" name="LOG_SID" prompt="LOG_SID?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_-LigRFZ-EeyFDbxeh9vArQ" comment="" name="LOG_USER" prompt="LOG_USER?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_-LigRVZ-EeyFDbxeh9vArQ" comment="" name="LOG_PWD" prompt="LOG_PWD?" promptNeeded="false" type="id_String" value=""/>
+</talendfile:ContextType>

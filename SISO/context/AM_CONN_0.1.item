@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_-K18sFZ-EeyFDbxeh9vArQ" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_-K18sVZ-EeyFDbxeh9vArQ" comment="" name="AM_CONN_Login" prompt="AM_CONN_Login?" promptNeeded="false" type="id_String" value="AM_DEV1"/>
+  <contextParameter xmi:id="_-K18slZ-EeyFDbxeh9vArQ" comment="" name="AM_CONN_Password" prompt="AM_CONN_Password?" promptNeeded="false" type="id_Password" value="XPg4byS3mhk="/>
+  <contextParameter xmi:id="_-K18s1Z-EeyFDbxeh9vArQ" comment="" name="AM_CONN_ServiceName" prompt="AM_CONN_ServiceName?" promptNeeded="false" type="id_String" value="DBCAT"/>
+  <contextParameter xmi:id="_-K18tFZ-EeyFDbxeh9vArQ" comment="" name="AM_CONN_AdditionalParams" prompt="AM_CONN_AdditionalParams?" promptNeeded="false" type="id_String" value=""/>
+  <contextParameter xmi:id="_-K18tVZ-EeyFDbxeh9vArQ" comment="" name="AM_CONN_Schema" prompt="AM_CONN_Schema?" promptNeeded="false" type="id_String" value="AM_DEV1"/>
+  <contextParameter xmi:id="_-K18tlZ-EeyFDbxeh9vArQ" comment="" name="AM_CONN_Server" prompt="AM_CONN_Server?" promptNeeded="false" type="id_String" value="172.29.0.255"/>
+  <contextParameter xmi:id="_-K18t1Z-EeyFDbxeh9vArQ" comment="" name="AM_CONN_Port" prompt="AM_CONN_Port?" promptNeeded="false" type="id_String" value="1521"/>
+</talendfile:ContextType>
